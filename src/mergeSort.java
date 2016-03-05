@@ -7,6 +7,8 @@
  * and merges the two sorted sub-arrays into one. S
  * 
  * */
+
+//Created by Sagar Narang on 3/04/16.
 public class mergeSort
 {
 	//merges two sub-arrays of arr[]
